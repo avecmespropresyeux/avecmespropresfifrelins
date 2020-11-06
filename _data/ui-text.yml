@@ -117,17 +117,17 @@ es-CO:
 # French
 # ------
 fr: &DEFAULT_FR
-  skip_links                 :
-  skip_primary_nav           :
-  skip_content               :
-  skip_footer                :
+  skip_links                 : "Passer les liens"
+  skip_primary_nav           : "Passer la navigaton"
+  skip_content               : "Passer le contenu"
+  skip_footer                : "Passer le bas de page"
   page                       : "Page"
   pagination_previous        : "Précédent"
   pagination_next            : "Suivant"
   breadcrumb_home_label      : "Accueil"
   breadcrumb_separator       : "/"
   menu_label                 : "Menu"
-  search_label               :
+  search_label               : "Recherche"
   toc_label                  : "Sur cette page"
   ext_link_label             : "Lien direct"
   less_than                  : "moins de"
@@ -159,9 +159,9 @@ fr: &DEFAULT_FR
   comment_success_msg        : "Merci pour votre commentaire, il sera visible sur le site une fois approuvé."
   comment_error_msg          : "Désolé, une erreur est survenue lors de la soumission. Vérifiez que les champs obligatoires ont été remplis et réessayez."
   loading_label              : "Chargement..."
-  search_label_text          :
+  search_label_text          : "Entrez votre recherche..."
   search_placeholder_text    : "Entrez votre recherche..."
-  search_algolia_no_results  :
+  search_algolia_no_results  : "Pas de résultat"
   results_found              : "Résultat(s) trouvé(s)"
   back_to_top                : "Retour en haut"
 fr-FR:
