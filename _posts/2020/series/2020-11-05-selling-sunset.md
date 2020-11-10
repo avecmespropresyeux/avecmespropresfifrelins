@@ -1,5 +1,8 @@
 ---
 title:  "Selling Sunset"
+categories:
+  - Netflix
+  - series
 tags:
   - nuget
   - powershell
