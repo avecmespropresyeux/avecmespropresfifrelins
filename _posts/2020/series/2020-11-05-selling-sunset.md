@@ -1,13 +1,14 @@
 ---
 title:  "Selling Sunset"
-categories:
-  - Netflix
+categories: 
   - series
-tags:
-  - nuget
-  - powershell
-  - powershell gallery
-  - proxy
+  - netflix
+tags: 
+  - netflix
+  - selling sunset
+  - immobilier
+header:
+  teaser: assets/images/2020-selling-sunset.jpg
 ---
 
 La série de TV-réalité de Netflix qui cartonne complètement depuis son arrivée en 2019. Elle a tellement bien marchée qu'ils ont sorti 2 saisons en 2020, l'une en mars 2020 pendant notre confinement et l'autre en août 2020 alors qu'on se pavanait dehors sans se soucier d'un reconfinement ("parce que c'est pas possible de plomber l'économie une 2e fois" ou encore "nan mais ils nous feront jamais ça" et "c'est bon, on a les masques maintenant"... qu'est-ce qu'on était naïfs).
